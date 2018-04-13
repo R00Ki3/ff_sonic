@@ -1,2 +1,2 @@
 # ff_sonic
-Fortress forever capture the flag map
+![Loading Screen](https://github.com/R00Ki3/ff_sonic/blob/master/ff_sonic.png)
